@@ -1,10 +1,5 @@
 function Home(){
-  return <div>
-      <form id="form3" method="POST">
-        <input type="text" id="texto" />
-        <input type="submit" id="btnS" />
-      </form>
-    </div>
+  return <div>Hello World</div>
 }
 
 export default Home
